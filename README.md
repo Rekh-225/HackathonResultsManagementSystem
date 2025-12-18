@@ -49,6 +49,7 @@ The application uses a local SQLite database. Configuration is stored in `appset
     "JsonOutput": "Output"
   }
 }
+```
 No external credentials are required.
 
 How to Run
